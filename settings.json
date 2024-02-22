@@ -1,0 +1,32 @@
+{
+	"PANCAKE": true,
+	"UNISWAP": false,
+	"TESTVERSION": false,
+    "wallet_address": "",
+    "private_key": "5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9" ,
+
+
+    "RPC": "https://bsc-dataseed.binance.org/",
+
+
+	
+    "GWEI_GAS": 10,
+    "GWEI_GASETH": 23,
+    "MaxTXFeeBNB": 0.01,
+    "MaxTXFeeETH": 0.001,
+	"PROFIT": 1.3,
+    "Slippage": 30,
+
+    "MinLiquidityBNB": 0.5,
+    "MinLiquidityETH": 0.005,
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15,
+
+    "cc_BlacklistWords": [
+        "ROOT",
+        "allowed",
+        "Accounting",
+        "blacklist"
+    ]
+    
+}
